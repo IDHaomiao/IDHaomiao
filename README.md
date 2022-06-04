@@ -9,4 +9,3 @@ You can find me on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/haomiao-li
 ## 📈GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDHaomiao&show_icons=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IDHaomiao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
